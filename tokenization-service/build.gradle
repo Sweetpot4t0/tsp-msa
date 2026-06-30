@@ -1,0 +1,1 @@
+// 루트 build.gradle의 공통 의존성(web, data-jpa, postgresql, lombok)만으로 충분.
